@@ -18,7 +18,7 @@ black = (0, 0, 0)
 
 # Creating window
 screen_width = 1000
-screen_height = 600
+screen_height = 700
 SCREEN = pygame.display.set_mode((screen_width, screen_height))
 
 #Background Image
